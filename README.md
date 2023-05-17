@@ -40,7 +40,7 @@ An E-commerce site template, implemented with [Next.js](https://nextjs.org/) and
 
 
 ## ✨Demo
-You can visit and explore in the ZiShop template at [ZiShop.vercel.app](https://zishop.vercel.app/).
+You can visit and explore in the ZiShop template at [ZiShop](https://e-commerce-onlineshop.vercel.app).
 
 ## 🔥Features
 * Using Redux toolkit as state manager
@@ -67,7 +67,7 @@ You can visit and explore in the ZiShop template at [ZiShop.vercel.app](https://
 
 2. Clone the project
   ```bash
-  git clone https://github.com/kehyshow/online-shop.git
+  git clone https://github.com/kehyshow/E-Commerce-OnlineShop.git
   ```
 3. Install project dependencies
   ```bash
@@ -116,8 +116,8 @@ Don't forget to give the project a star! Thanks again!
 
 ## 💬Contact Me
   <p>
-    <a href="https://linkedin.com/in/kehyshow"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:z.mirzaei2019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/akim-korhonen-swfury"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:akimkorhonen0629@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   </p>
   
   <hr/>
