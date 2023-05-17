@@ -28,7 +28,7 @@ const Footer = () => {
               display: "inline",
             }}
           />
-          {locale === "en" ? "by Zahra Mirzaei" : "توسط زهرا میرزایی"}
+          {locale === "en" ? "by Kehyshow" : "کهیشو"}
         </div>
         <div className="py-1">
           <StartQuot

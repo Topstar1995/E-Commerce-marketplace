@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "zahra mirzaei <z.mirzaei2019@gmail.com>",
+  "author": "Kehyshow <akimkorhonen0629@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
@@ -30,6 +30,6 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZahraMirzaei/online-shop.git"
+    "url": "https://github.com/kehyshow/online-shop.git"
   }
 }
